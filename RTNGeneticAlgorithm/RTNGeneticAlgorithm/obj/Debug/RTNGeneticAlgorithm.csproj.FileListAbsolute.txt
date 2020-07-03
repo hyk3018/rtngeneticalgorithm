@@ -1,0 +1,13 @@
+C:\Users\thanks fr th mmrs\documents\visual studio 2017\Projects\RTNGeneticAlgorithm\RTNGeneticAlgorithm\obj\Debug\RTNGeneticAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\thanks fr th mmrs\documents\visual studio 2017\Projects\RTNGeneticAlgorithm\RTNGeneticAlgorithm\bin\Debug\RTNGeneticAlgorithm.exe.config
+C:\Users\thanks fr th mmrs\documents\visual studio 2017\Projects\RTNGeneticAlgorithm\RTNGeneticAlgorithm\bin\Debug\RTNGeneticAlgorithm.exe
+C:\Users\thanks fr th mmrs\documents\visual studio 2017\Projects\RTNGeneticAlgorithm\RTNGeneticAlgorithm\bin\Debug\RTNGeneticAlgorithm.pdb
+C:\Users\thanks fr th mmrs\documents\visual studio 2017\Projects\RTNGeneticAlgorithm\RTNGeneticAlgorithm\obj\Debug\RTNGeneticAlgorithm.exe
+C:\Users\thanks fr th mmrs\documents\visual studio 2017\Projects\RTNGeneticAlgorithm\RTNGeneticAlgorithm\obj\Debug\RTNGeneticAlgorithm.pdb
+C:\Users\Tommy\Desktop\CS\RTNGeneticAlgorithm\RTNGeneticAlgorithm\bin\Debug\RTNGeneticAlgorithm.exe.config
+C:\Users\Tommy\Desktop\CS\RTNGeneticAlgorithm\RTNGeneticAlgorithm\bin\Debug\RTNGeneticAlgorithm.exe
+C:\Users\Tommy\Desktop\CS\RTNGeneticAlgorithm\RTNGeneticAlgorithm\bin\Debug\RTNGeneticAlgorithm.pdb
+C:\Users\Tommy\Desktop\CS\RTNGeneticAlgorithm\RTNGeneticAlgorithm\obj\Debug\RTNGeneticAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\Tommy\Desktop\CS\RTNGeneticAlgorithm\RTNGeneticAlgorithm\obj\Debug\RTNGeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\Desktop\CS\RTNGeneticAlgorithm\RTNGeneticAlgorithm\obj\Debug\RTNGeneticAlgorithm.exe
+C:\Users\Tommy\Desktop\CS\RTNGeneticAlgorithm\RTNGeneticAlgorithm\obj\Debug\RTNGeneticAlgorithm.pdb
