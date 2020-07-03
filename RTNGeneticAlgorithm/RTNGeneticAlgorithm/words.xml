@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<words>
+  <article>
+    <word>A</word>
+    <word>AN</word>
+    <word>THE</word>
+    <word>MY</word>
+  </article>
+  <adjective>
+    <word>FLUFFY</word>
+    <word>STRANGE</word>
+    <word>PURPLE</word>
+    <word>YELLOW</word>
+    <word>RUSTY</word>
+    <word>SOGGY</word>
+    <word>POISONOUS</word>
+    <word>RED</word>
+    <word>SMALL</word>
+    <word>LARGE</word>
+    <word>BROKEN</word>
+    <word>DYING</word>
+    <word>FLAVOURFUL</word>
+    <word>FAST</word>
+    <word>HYPER</word>
+    <word>OMINOUS</word>
+    <word>SHOCKED</word>
+  </adjective>
+  <noun>
+    <word>COW</word>
+    <word>HORNS</word>
+    <word>DOG</word>
+    <word>CHAIR</word>
+    <word>MOUNTAIN</word>
+    <word>GAS STATION</word>
+    <word>PAINTING</word>
+    <word>LADYBUG</word>
+    <word>CAT</word>
+    <word>KITTEN</word>
+    <word>PAINTER</word>
+    <word>KNIGHT</word>
+    <word>CHILD</word>
+    <word>DANIEL</word>
+    <word>BAGELS</word>
+    <word>MR JOLLEY</word>
+  </noun>
+  <relative_pronoun>
+    <word>THAT</word>
+    <word>WHO</word>
+    <word>WHICH</word>
+  </relative_pronoun>
+  <preposition>
+    <word>WITHOUT</word>
+    <word>UNDER</word>
+    <word>BETWEEN</word>
+    <word>ON</word>
+    <word>AT</word>
+    <word>INSIDE</word>
+    <word>AFTER</word>
+    <word>BY</word>
+    <word>OUTSIDE</word>
+  </preposition>
+  <verb>
+    <word>JUMPED ON</word>
+    <word>GOBBLED</word>
+    <word>EATS</word>
+    <word>BOUGHT</word>
+    <word>ATE</word>
+    <word>WALKS</word>
+    <word>TALKED</word>
+    <word>HITS</word>
+    <word>SCRAMBLES</word>
+    <word>PLAYS</word>
+    <word>KICKS</word>
+    <word>FOUGHT</word>
+  </verb>
+</words>

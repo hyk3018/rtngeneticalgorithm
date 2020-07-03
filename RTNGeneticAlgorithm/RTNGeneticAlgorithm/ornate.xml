@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<words>
+  <article>
+    <word>A</word>
+    <word>AN</word>
+    <word>THE</word>
+    <word>MY</word>
+  </article>
+  <adjective>
+    <word>RED</word>
+    <word>SMALL</word>
+    <word>LARGE</word>
+    <word>BROKEN</word>
+    <word>DYING</word>
+    <word>FLAVOURFUL</word>
+    <word>FAST</word>
+    <word>HYPER</word>
+    <word>OMINOUS</word>
+    <word>SHOCKED</word>
+  </adjective>
+  <noun>
+    <word>DOG</word>
+    <word>CHAIR</word>
+    <word>MOUNTAIN</word>
+    <word>GAS STATION</word>
+    <word>PAINTING</word>
+    <word>LADYBUG</word>
+  </noun>
+</words>

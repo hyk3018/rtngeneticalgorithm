@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<rtns>
+  <network name="ornate_noun">
+    <node name="begin" expand="false" collapse="true">
+      <from></from>
+      <to>
+        <node>article</node>
+        <node>adjective</node>
+        <node>noun</node>
+      </to>
+    </node>
+    <node name="article" expand="false" collapse="false">
+      <from>
+        <node>begin</node>
+      </from>
+      <to>
+        <node>adjective</node>
+        <node>noun</node>
+      </to>
+    </node>
+    <node name="adjective" expand="false" collapse="false">
+      <from>
+        <node>article</node>
+        <noun>adjective</noun>
+        <node>begin</node>
+      </from>
+      <to>
+        <node>adjective</node>
+        <node>noun</node>
+      </to>
+    </node>
+    <node name="noun" expand="false" collapse="false">
+      <from>
+        <node>article</node>
+        <node>adjective</node>
+        <node>begin</node>
+      </from>
+      <to>
+        <node>end</node>
+      </to>
+    </node>
+    <node name="end" expand="false" collapse="false">
+      <from>
+        <node>noun</node>
+      </from>
+      <to></to>
+    </node>
+  </network>
+  <network name="fancy_noun">
+    <node name="begin" expand="false" collapse="true">
+      <from></from>
+      <to>
+        <node>ornate_noun</node>
+      </to>
+    </node>
+    <node name="ornate_noun" expand="true" collapse="false">
+      <from>
+        <node>begin</node>
+      </from>
+      <to>
+        <node>relative_pronoun</node>
+        <node>preposition</node>
+        <node>end</node>
+      </to>
+    </node>
+    <node name="relative_pronoun" expand="false" collapse="false">
+      <from>
+        <node>ornate_noun</node>
+      </from>
+      <to>
+        <node>verb_1</node>
+        <node>fancy_noun_2</node>
+      </to>
+    </node>
+    <node name="verb_1" expand="false" collapse="false">
+      <from>
+        <node>relative_pronoun</node>
+      </from>
+      <to>
+        <node>fancy_noun_1</node>
+      </to>
+    </node>
+    <node name="fancy_noun_1" expand="true" collapse="false">
+      <from>
+        <node>verb_1</node>
+      </from>
+      <to>
+        <node>end</node>
+      </to>
+    </node>
+    <node name="fancy_noun_2" expand="true" collapse="false">
+      <from>
+        <node>relative_pronoun</node>
+      </from>
+      <to>
+        <node>verb_2</node>
+      </to>
+    </node>
+    <node name="verb_2" expand="false" collapse="false">
+      <from>
+        <node>fancy_noun_2</node>
+      </from>
+      <to>
+        <node>end</node>
+      </to>
+    </node>
+    <node name="preposition" expand="false">
+      <from>
+        <node>ornate_noun</node>
+      </from>
+      <to>
+        <node>fancy_noun_3</node>
+      </to>
+    </node>
+    <node name="fancy_noun_3" expand="true">
+      <from>
+        <node>preposition</node>
+      </from>
+      <to>
+        <node>end</node>
+      </to>
+    </node>
+    <node name="ornate_noun_2" expand="true">
+      <from>
+        <node>verb_1</node>
+        <node>preposition</node>
+      </from>
+      <to>
+        <node>end</node>
+      </to>
+    </node>
+    <node name="end" expand="false">
+      <from>
+        <node>verb_2</node>
+        <node>ornate_noun_2</node>
+      </from>
+      <to></to>
+    </node>
+  </network>
+</rtns>
